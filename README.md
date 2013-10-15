@@ -10,7 +10,7 @@ You need [Maven 3](http://maven.apache.org/) installed:
 
 Screenshot:
 
-![My image](janih.github.com/playn_project/screenshot.png)
+![screenshot](screenshot.png)
 
 
 ##Creating Ecplise project files##
